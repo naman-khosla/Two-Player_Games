@@ -1,0 +1,15 @@
+/Users/naman/Projects/IFN563_Assessment_2/GameStation/bin/Debug/net6.0/GameStation
+/Users/naman/Projects/IFN563_Assessment_2/GameStation/bin/Debug/net6.0/GameStation.deps.json
+/Users/naman/Projects/IFN563_Assessment_2/GameStation/bin/Debug/net6.0/GameStation.runtimeconfig.json
+/Users/naman/Projects/IFN563_Assessment_2/GameStation/bin/Debug/net6.0/GameStation.dll
+/Users/naman/Projects/IFN563_Assessment_2/GameStation/bin/Debug/net6.0/GameStation.pdb
+/Users/naman/Projects/IFN563_Assessment_2/GameStation/obj/Debug/net6.0/GameStation.csproj.AssemblyReference.cache
+/Users/naman/Projects/IFN563_Assessment_2/GameStation/obj/Debug/net6.0/GameStation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naman/Projects/IFN563_Assessment_2/GameStation/obj/Debug/net6.0/GameStation.AssemblyInfoInputs.cache
+/Users/naman/Projects/IFN563_Assessment_2/GameStation/obj/Debug/net6.0/GameStation.AssemblyInfo.cs
+/Users/naman/Projects/IFN563_Assessment_2/GameStation/obj/Debug/net6.0/GameStation.csproj.CoreCompileInputs.cache
+/Users/naman/Projects/IFN563_Assessment_2/GameStation/obj/Debug/net6.0/GameStation.dll
+/Users/naman/Projects/IFN563_Assessment_2/GameStation/obj/Debug/net6.0/refint/GameStation.dll
+/Users/naman/Projects/IFN563_Assessment_2/GameStation/obj/Debug/net6.0/GameStation.pdb
+/Users/naman/Projects/IFN563_Assessment_2/GameStation/obj/Debug/net6.0/GameStation.genruntimeconfig.cache
+/Users/naman/Projects/IFN563_Assessment_2/GameStation/obj/Debug/net6.0/ref/GameStation.dll
